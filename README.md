@@ -1,5 +1,6 @@
 # graphs
 An app where there can be applied some of the most used graphs algorithms on a drawn graph.<br>
+This app has been made using **Maven** and **Java Swing**.<br>
 
 **App features:**<br>
 -> Draw an undirect/directed/undirect with weight/directed with weight graph.<br><br>
